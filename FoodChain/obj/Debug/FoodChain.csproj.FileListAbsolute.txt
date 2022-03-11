@@ -9,3 +9,14 @@ C:\Users\ruide\source\repos\FoodChain\FoodChain\obj\Debug\FoodChain.dll
 C:\Users\ruide\source\repos\FoodChain\FoodChain\obj\Debug\FoodChain.pdb
 C:\Users\ruide\source\repos\FoodChain\FoodChain\obj\Debug\FoodChain.Properties.Resources.resources
 C:\Users\ruide\source\repos\FoodChain\FoodChain\obj\Debug\FoodChain.csproj.GenerateResource.cache
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\obj\Debug\FoodChain.csproj.AssemblyReference.cache
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\obj\Debug\FoodChain.Properties.Resources.resources
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\obj\Debug\FoodChain.csproj.GenerateResource.cache
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\obj\Debug\FoodChain.csproj.CoreCompileInputs.cache
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\obj\Debug\FoodChain.dll
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\obj\Debug\FoodChain.pdb
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\bin\FoodChain.dll
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\bin\FoodChain.pdb
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\bin\Python.Runtime.dll
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\bin\Python.Runtime.xml
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\obj\Debug\FoodChain.csproj.CopyComplete
