@@ -1,0 +1,16 @@
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\bin\x86\Debug\FoodChain.dll
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\bin\x86\Debug\FoodChain.pdb
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\bin\x86\Debug\Eto.dll
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\bin\x86\Debug\Python.Runtime.dll
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\bin\x86\Debug\Rhino.UI.dll
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\bin\x86\Debug\RhinoCommon.dll
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\bin\x86\Debug\Eto.xml
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\bin\x86\Debug\Python.Runtime.xml
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\bin\x86\Debug\RhinoCommon.xml
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\obj\x86\Debug\FoodChain.csproj.AssemblyReference.cache
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\obj\x86\Debug\FoodChain.Properties.Resources.resources
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\obj\x86\Debug\FoodChain.csproj.GenerateResource.cache
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\obj\x86\Debug\FoodChain.csproj.CoreCompileInputs.cache
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\obj\x86\Debug\FoodChain.csproj.CopyComplete
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\obj\x86\Debug\FoodChain.dll
+C:\Users\diels\Source\Repos\FoodChain10\FoodChain\obj\x86\Debug\FoodChain.pdb
